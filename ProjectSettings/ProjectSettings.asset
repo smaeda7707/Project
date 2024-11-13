@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b1af2b2249d054d419d3e0e074f2a150
+  productGUID: a64835037bd235a4683d69d05c56ac46
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Computer Science Project
+  productName: 3d game project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -677,14 +677,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Computer Science Project
+  metroPackageName: 3d game project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Computer Science Project
+  metroApplicationDescription: 3d game project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -754,10 +754,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 91468625-e6fb-42d0-a540-92a964d36ba0
+  cloudProjectId: a5094d61-0bc0-43d4-9f8a-5aef6b333f33
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Computer Science Project
+  projectName: 3d game project
   organizationId: o0o0o0o0o0o0o0o0o0o0o
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
